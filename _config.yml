@@ -23,11 +23,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "ECUST-SDELab-OSS"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "We are the Open Source Governance Group of the Smart Data Engineering Lab at East China University of Science and Technology."
+  location         : "Shanghai, China"
+  employer         : "East China University of Science and Technology"
   uri              : # URL
   email            : "none@example.org" 
 
