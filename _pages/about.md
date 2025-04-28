@@ -14,8 +14,8 @@ Our group currently consists of two PhD students pursuing Computer Science and T
 News!
 ========
 
-1.Good news is coming soon!
+1.Congratulations! Our study on vulnerability-fixing identification and license compliance in code clone has been accepted by COMPSAC 2025!
 
 Selected Publications!
 ========
-
+[1] Jianan Dong, Yuguo Liang, Yujie Ye, Guisheng Fan, Huiqun Yu, Zijie Huang and Wentao Chen. VFProber: A Vulnerability-Fixing Identification Framework Based on Code Changes and Semantic Adjustment. 49th IEEE International Conference on Computers, Software, and Applications (COMPSAC), 2025. (CCF-C)
